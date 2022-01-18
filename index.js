@@ -5,7 +5,7 @@ var students = [
     age: 21,
     birthday: {
       year: 2000,
-      month: "April",
+      month: "Aprill",
       day: 26
     },
     Career: "IDYGS"
